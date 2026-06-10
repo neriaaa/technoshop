@@ -1,4 +1,4 @@
-# TechShop — E-commerce Platform
+# TechShop  E-commerce Platform
 
 Современная full-stack платформа интернет-магазина девайсов и периферии, разработанная с акцентом на чистый UI/UX, стеклянный морфизм (glassmorphism) и высокую производительность.
 
